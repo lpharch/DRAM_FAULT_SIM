@@ -1,0 +1,73 @@
+,category,permanency,failure_classification,count,percentage,FIT
+0,bank_control,permanent,Not Uncorrectable,36,0.0010402820320175692,0.11384335154826956
+1,bank_control,permanent,Uncorrectable,10,0.00028896723111599147,0.03162315320785266
+2,consequtive_rows,permanent,Not Uncorrectable,224,0.006472865976998208,0.7083586318558995
+3,consequtive_rows,permanent,Uncorrectable,8,0.00023117378489279317,0.02529852256628213
+4,consequtive_rows,transient,Not Uncorrectable,11,0.0003178639542275906,0.034785468528637925
+5,consequtive_rows,transient,Uncorrectable,5,0.00014448361555799574,0.01581157660392633
+6,decoder_multi_col,permanent,Not Uncorrectable,10,0.00028896723111599147,0.03162315320785266
+7,decoder_multi_col,transient,Not Uncorrectable,98,0.0028318788649367163,0.3099069014369561
+8,decoder_multi_col,transient,Uncorrectable,10,0.00028896723111599147,0.03162315320785266
+9,decoder_single_col,permanent,Not Uncorrectable,1,2.8896723111599146e-05,0.003162315320785266
+10,decoder_single_col,permanent,Uncorrectable,1,2.8896723111599146e-05,0.003162315320785266
+11,decoder_single_col,transient,Not Uncorrectable,197,0.0056926544529850315,0.6229761181946974
+12,decoder_single_col,transient,Uncorrectable,124,0.003583193665838294,0.392127099777373
+13,local_wordline,permanent,Not Uncorrectable,2132,0.061607813673929375,6.742056263914187
+14,local_wordline,permanent,Uncorrectable,50,0.0014448361555799572,0.1581157660392633
+15,local_wordline,transient,Not Uncorrectable,286,0.008264462809917356,0.9044221817445861
+16,local_wordline,transient,Uncorrectable,19,0.0005490377391203838,0.060083991094920054
+17,local_wordline_two_clusters,permanent,Not Uncorrectable,489,0.014130497601571982,1.546372191863995
+18,local_wordline_two_clusters,permanent,Uncorrectable,4,0.00011558689244639658,0.012649261283141065
+19,local_wordline_two_clusters,transient,Not Uncorrectable,46,0.0013292492631335607,0.14546650475612224
+20,lwl_sel,permanent,Not Uncorrectable,100,0.0028896723111599145,0.3162315320785266
+21,lwl_sel,permanent,Uncorrectable,6,0.00017338033866959486,0.018973891924711595
+22,lwl_sel,transient,Not Uncorrectable,500,0.014448361555799573,1.581157660392633
+23,lwl_sel,transient,Uncorrectable,9,0.0002600705080043923,0.02846083788706739
+24,lwl_sel2,permanent,Not Uncorrectable,12,0.0003467606773391897,0.03794778384942319
+25,lwl_sel2,permanent,Uncorrectable,1,2.8896723111599146e-05,0.003162315320785266
+26,lwl_sel2,transient,Not Uncorrectable,87,0.0025140149107091255,0.27512143290831814
+27,lwl_sel2,transient,Uncorrectable,7,0.000202277061781194,0.02213620724549686
+28,multi_rank,permanent,Not Uncorrectable,385,0.01112523839796567,1.2174913985023272
+29,multi_rank,permanent,Uncorrectable,28,0.000809108247124776,0.08854482898198744
+30,multi_rank,transient,Not Uncorrectable,73,0.0021094607871467376,0.23084901841732441
+31,multi_rank,transient,Uncorrectable,8,0.00023117378489279317,0.02529852256628213
+32,multiple_single_bit_failures,permanent,Not Uncorrectable,14490,0.4187135178870716,45.821948998178506
+33,multiple_single_bit_failures,permanent,Uncorrectable,25,0.0007224180777899786,0.07905788301963165
+34,multiple_single_bit_failures,transient,Not Uncorrectable,9218,0.2663699936427209,29.15022262699858
+35,multiple_single_bit_failures,transient,Uncorrectable,56,0.001618216494249552,0.17708965796397488
+36,mutli_csls,permanent,Not Uncorrectable,156,0.004507888805409466,0.49332119004250147
+37,mutli_csls,permanent,Uncorrectable,10,0.00028896723111599147,0.03162315320785266
+38,mutli_csls,transient,Not Uncorrectable,94,0.0027162919724903196,0.297257640153815
+39,mutli_csls,transient,Uncorrectable,20,0.0005779344622319829,0.06324630641570532
+40,not_clustered_multi_bank,permanent,Not Uncorrectable,267,0.007715425070796971,0.844338190649666
+41,not_clustered_multi_bank,permanent,Uncorrectable,40,0.0011558689244639659,0.12649261283141064
+42,not_clustered_multi_bank,transient,Not Uncorrectable,68,0.001964977171588742,0.2150374418133981
+43,not_clustered_multi_bank,transient,Uncorrectable,18,0.0005201410160087846,0.05692167577413478
+44,not_clustered_single_bank,permanent,Not Uncorrectable,104,0.003005259203606311,0.3288807933616677
+45,not_clustered_single_bank,permanent,Uncorrectable,13,0.0003756574004507889,0.04111009917020846
+46,not_clustered_single_bank,transient,Not Uncorrectable,87,0.0025140149107091255,0.27512143290831814
+47,not_clustered_single_bank,transient,Uncorrectable,36,0.0010402820320175692,0.11384335154826956
+48,not_clustered_single_column,permanent,Not Uncorrectable,3,8.669016933479743e-05,0.009486945962355798
+49,not_clustered_single_column,transient,Not Uncorrectable,2,5.779344622319829e-05,0.006324630641570532
+50,potential_csl_column,permanent,Not Uncorrectable,139,0.0040166445125122815,0.439561829589152
+51,potential_csl_column,permanent,Uncorrectable,8,0.00023117378489279317,0.02529852256628213
+52,potential_sense_amp,permanent,Not Uncorrectable,412,0.011905449921978848,1.3028739121635295
+53,potential_sense_amp,permanent,Uncorrectable,11,0.0003178639542275906,0.034785468528637925
+54,single_csl_bank,permanent,Not Uncorrectable,63,0.001820493556030746,0.19922586520947175
+55,single_csl_bank,transient,Not Uncorrectable,1224,0.03536958908859735,3.8706739526411655
+56,single_csl_bank,transient,Uncorrectable,12,0.0003467606773391897,0.03794778384942319
+57,single_csl_column,permanent,Not Uncorrectable,26,0.0007513148009015778,0.08222019834041693
+58,single_csl_column,transient,Not Uncorrectable,619,0.01788707160607987,1.9574731835660797
+59,single_csl_column,transient,Uncorrectable,21,0.000606831185343582,0.06640862173649058
+60,single_sense_amp,permanent,Not Uncorrectable,298,0.008611223487256545,0.9423699655940093
+61,single_sense_amp,permanent,Uncorrectable,1,2.8896723111599146e-05,0.003162315320785266
+62,single_sense_amp,transient,Not Uncorrectable,1571,0.04539675200832226,4.967997368953653
+63,single_sense_amp,transient,Uncorrectable,49,0.0014159394324683582,0.15495345071847805
+64,subarray_row_decoder,permanent,Not Uncorrectable,170,0.004912442928971855,0.5375936045334953
+65,subarray_row_decoder,permanent,Uncorrectable,8,0.00023117378489279317,0.02529852256628213
+66,subarray_row_decoder,transient,Not Uncorrectable,39,0.0011269722013523666,0.12333029751062537
+67,subarray_row_decoder,transient,Uncorrectable,21,0.000606831185343582,0.06640862173649058
+68,subarray_row_decoder_two_clusters,permanent,Not Uncorrectable,142,0.004103334681847079,0.4490487755515078
+69,subarray_row_decoder_two_clusters,permanent,Uncorrectable,32,0.0009246951395711727,0.10119409026512852
+70,subarray_row_decoder_two_clusters,transient,Not Uncorrectable,44,0.0012714558169103624,0.1391418741145517
+71,subarray_row_decoder_two_clusters,transient,Uncorrectable,12,0.0003467606773391897,0.03794778384942319
